@@ -1,0 +1,15 @@
+{
+  "name": "flappy-bird",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "dependencies": {
+    "@pixi/sound": "^4.3.0",
+    "pixi.js": "^6.5.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
